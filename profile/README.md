@@ -1,4 +1,4 @@
-# Welcome to the Official GooblerStudios Github!
+# Welcome to the Official GooblerStudios Github! 👋
 
 ❗ You can find the source code for all the Goobler apps!
 
