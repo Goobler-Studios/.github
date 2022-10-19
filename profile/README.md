@@ -7,6 +7,7 @@
 🍿 Fun fact - We only have 3 staff members runing the entirety of Goobler, but that doesn't mean the company is bad!
 
 We hope you find what you're looking for in the Github! 
+
 -The GooblerStudio Staff Team 🐈
 
 <!--
