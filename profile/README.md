@@ -4,7 +4,7 @@
 
 🔍 We pride ourselves in our transparency and privacy, so we made all our apps Open Source!
 
-🍿 Fun fact - We only have 3 staff members running the entirety of Goobler, but that doesn't mean the company is bad!
+🍿 Fun fact - We only have 8 staff members running the entirety of Goobler, but that doesn't mean the company is bad!
 
 We hope you find what you're looking for in the GitHub! 
 
